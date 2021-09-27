@@ -1,0 +1,14 @@
+header{
+    background-color: tomato;
+}
+nav{
+    background-color: yellowgreen;
+}
+#nav{
+    background-color: violet;
+    display: flex;
+    justify-content: space-between;
+}
+.nav__links{
+    background-color: teal;
+}
